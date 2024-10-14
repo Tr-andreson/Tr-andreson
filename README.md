@@ -16,8 +16,7 @@ I'm a passionate Frontend Developer with 3 years of experience in building respo
 ### 💻 GitHub Stats
 ![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=tusharrawat&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tusharrawat&layout=compact&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com?user=tusharrawat&theme=radical)](https://git.io/streak-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=tusharrawat&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ### 📫 Get in Touch
 - Email: [tusharrawat.trf@gmail.com](mailto:tusharrawat.trf@gmail.com)
