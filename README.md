@@ -20,4 +20,3 @@ I'm a passionate Frontend Developer with 3 years of experience in building respo
 
 ### 📫 Get in Touch
 - Email: [tusharrawat.trf@gmail.com](mailto:tusharrawat.trf@gmail.com)
-- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)
