@@ -19,8 +19,6 @@ I'm a passionate Frontend Developer with 3 years of experience in building respo
 [![GitHub Streak](https://streak-stats.demolab.com?user=tusharrawat&theme=radical)](https://git.io/streak-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=tusharrawat&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tusharrawat&theme=react-dark)
-
 ### 📫 Get in Touch
 - Email: [tusharrawat.trf@gmail.com](mailto:tusharrawat.trf@gmail.com)
 - LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)
