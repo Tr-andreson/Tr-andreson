@@ -31,12 +31,6 @@ I love turning complex problems into **clean, intuitive, and beautiful** solutio
 
 ---
 
-### 📈 GitHub Activity Graph  
-
-[![Tushar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tusharrawat&theme=radical)](https://github.com/tusharrawat)
-
----
-
 ### 🏆 Achievements  
 
 - 🥇 Built multiple **scalable eCommerce applications** with Next.js & GraphQL  
@@ -51,19 +45,6 @@ I love turning complex problems into **clean, intuitive, and beautiful** solutio
 🔹 [**E-Commerce Shop with Admin Dashboard**](https://github.com/yourrepo) – Next.js, GraphQL, TailwindCSS  
 🔹 [**MERN Stack Blog Application**](https://github.com/yourrepo) – React, Node.js, MongoDB  
 🔹 [**Portfolio Website**](https://github.com/yourrepo) – React, TypeScript, Framer Motion  
-
----
-
-### ⚡ Fun Widgets  
-
-- ⏳ **WakaTime Stats** (coding hours tracker)  
-![Tushar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime_username&theme=radical)  
-
-- 🐍 **Contribution Snake**  
-![Snake animation](https://github.com/tusharrawat/tusharrawat/blob/output/github-contribution-grid-snake.svg)  
-
-- ⏰ **Current Status**  
-![Metrics](https://github.com/tusharrawat/tusharrawat/blob/main/github-metrics.svg)  
 
 ---
 
