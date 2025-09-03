@@ -31,6 +31,12 @@ I love turning complex problems into **clean, intuitive, and beautiful** solutio
 
 ---
 
+### 📈 GitHub Activity Graph  
+
+[![Tushar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tusharrawat&theme=radical)](https://github.com/tusharrawat)
+
+---
+
 ### 🏆 Achievements  
 
 - 🥇 Built multiple **scalable eCommerce applications** with Next.js & GraphQL  
@@ -48,7 +54,27 @@ I love turning complex problems into **clean, intuitive, and beautiful** solutio
 
 ---
 
+### ⚡ Fun Widgets  
+
+- ⏳ **WakaTime Stats** (coding hours tracker)  
+![Tushar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime_username&theme=radical)  
+
+- 🐍 **Contribution Snake**  
+![Snake animation](https://github.com/tusharrawat/tusharrawat/blob/output/github-contribution-grid-snake.svg)  
+
+- ⏰ **Current Status**  
+![Metrics](https://github.com/tusharrawat/tusharrawat/blob/main/github-metrics.svg)  
+
+---
+
 ### 📫 Get in Touch  
 
-- ✉️ Email: [tusharrawat.trf@gma]()
+- ✉️ Email: [tusharrawat.trf@gmail.com](mailto:tusharrawat.trf@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/tushar-rawat](https://linkedin.com/in/your-link)  
+- 🌐 Portfolio: [tusharrawat.dev](https://your-portfolio-link)  
 
+---
+
+<p align="center">  
+  <img src="https://komarev.com/ghpvc/?username=tusharrawat&style=flat-square&color=blue" alt="Profile Views"/>  
+</p>
