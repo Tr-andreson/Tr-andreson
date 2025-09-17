@@ -2,7 +2,7 @@
 
 ### 🚀 Frontend Developer | 4+ Years of Experience  
 
-I'm a passionate **Frontend Developer** with 3+ years of experience building **responsive, scalable, and user-friendly** web applications.  
+I'm a passionate **Frontend Developer** with 4+ years of experience building **responsive, scalable, and user-friendly** web applications.  
 I love turning complex problems into **clean, intuitive, and beautiful** solutions.  
 
 ---
