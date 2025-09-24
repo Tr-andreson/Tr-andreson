@@ -18,19 +18,6 @@ I love turning complex problems into **clean, intuitive, and beautiful** solutio
 
 ---
 
-### 📊 GitHub Analytics  
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tusharrawat&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tusharrawat&show_icons=true&theme=radical" alt="GitHub Stats" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharrawat&layout=compact&theme=radical" alt="Top Languages" height="180em"/>
-</p>
-
----
-
 ### 🏆 Achievements  
 
 - 🥇 Built multiple **scalable eCommerce applications** with Next.js & GraphQL  
